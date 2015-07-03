@@ -1,0 +1,45 @@
+16:28:42 GET参数为：
+array (
+  'signature' => 'bd0f77b6a74415abfe46098e6eb29f8473df4c37',
+  'timestamp' => '1434616123',
+  'nonce' => '1800783350',
+)
+16:28:42 checkSignature success : bd0f77b6a74415abfe46098e6eb29f8473df4c37-------bd0f77b6a74415abfe46098e6eb29f8473df4c37------
+16:28:42 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434616122</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+</xml>
+16:28:42 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434616122]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+16:28:49 GET参数为：
+array (
+  'signature' => 'd9eafe5289c3e71bb1b1a2174084b540354f495e',
+  'timestamp' => '1434616129',
+  'nonce' => '642856303',
+)
+16:28:49 checkSignature success : d9eafe5289c3e71bb1b1a2174084b540354f495e-------d9eafe5289c3e71bb1b1a2174084b540354f495e------
+16:28:49 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434616129</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+16:28:49 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434616129]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+16:28:58 GET参数为：
+array (
+  'signature' => '996794c0ee5f4b4851f8f4a421db73277e91946e',
+  'timestamp' => '1434616138',
+  'nonce' => '1344096788',
+)
+16:28:58 checkSignature success : 996794c0ee5f4b4851f8f4a421db73277e91946e-------996794c0ee5f4b4851f8f4a421db73277e91946e------
+16:28:58 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434616138</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+16:28:58 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[欢迎你进入一个new world！<br>1. 输入‘文’或者‘文章’会推送一篇文章<br>2. 发送图片会有提示]]></Content><CreateTime><![CDATA[1434616138]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>

@@ -1,0 +1,31 @@
+12:14:37 GET参数为：
+array (
+  'signature' => '43dab97a9a0a6680d8bba20dd8afdf043f868a16',
+  'timestamp' => '1435724077',
+  'nonce' => '1610585072',
+)
+12:14:37 checkSignature success : 43dab97a9a0a6680d8bba20dd8afdf043f868a16-------43dab97a9a0a6680d8bba20dd8afdf043f868a16------
+12:14:37 <xml><ToUserName><![CDATA[gh_029f25d3d032]]></ToUserName>
+<FromUserName><![CDATA[oHfucswd1RubcDUsBTMDRTXjhJC0]]></FromUserName>
+<CreateTime>1435724077</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[文]]></Content>
+<MsgId>6166387957002449714</MsgId>
+</xml>
+12:14:37 <xml><ToUserName><![CDATA[oHfucswd1RubcDUsBTMDRTXjhJC0]]></ToUserName><FromUserName><![CDATA[gh_029f25d3d032]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1435724077]]></CreateTime><ArticleCount><![CDATA[3]]></ArticleCount><Articles><item id="0"><Title><![CDATA[程序员技术练级攻略]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://365jia.cn/uploads/13/0301/5130c2ff93618.jpg]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/4990.html]]></Url></item><item id="1"><Title><![CDATA[Docker基础技术：Linux CGroup]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/17049.html]]></Url></item><item id="2"><Title><![CDATA[my news]]></Title><Description><![CDATA[my news description]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzAxMTQwODQyNg==&mid=207583625&idx=1&sn=f27e639e12f390c5dd9660bd73fcc102#rd]]></Url></item></Articles><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+12:14:44 GET参数为：
+array (
+  'signature' => '4c73c1e7309d78c911e8eddff97ed65d091354bd',
+  'timestamp' => '1435724083',
+  'nonce' => '494817337',
+)
+12:14:44 checkSignature success : 4c73c1e7309d78c911e8eddff97ed65d091354bd-------4c73c1e7309d78c911e8eddff97ed65d091354bd------
+12:14:44 <xml><ToUserName><![CDATA[gh_029f25d3d032]]></ToUserName>
+<FromUserName><![CDATA[oHfucswd1RubcDUsBTMDRTXjhJC0]]></FromUserName>
+<CreateTime>1435724083</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[图]]></Content>
+<MsgId>6166387982772253503</MsgId>
+</xml>
+12:14:44 <xml><ToUserName><![CDATA[oHfucswd1RubcDUsBTMDRTXjhJC0]]></ToUserName><FromUserName><![CDATA[gh_029f25d3d032]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[你好 
+暂时无法为您提供服务，请稍后再试]]></Content><CreateTime><![CDATA[1435724084]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>

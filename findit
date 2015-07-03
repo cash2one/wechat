@@ -1,0 +1,5 @@
+#!/bin/sh
+
+#全局查找脚本
+find . -iname \*.php -exec grep --color -wn -H $1 \{\} \;
+find . -iname \*.html -exec grep --color -wn -H $1 \{\} \;

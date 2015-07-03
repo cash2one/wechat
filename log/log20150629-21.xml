@@ -1,0 +1,15 @@
+21:42:10 GET参数为：
+array (
+  'signature' => 'a5fd3c6fb047c347e61d31fba2794e5b3899fb08',
+  'timestamp' => '1435585331',
+  'nonce' => '962601825',
+)
+21:42:10 checkSignature success : a5fd3c6fb047c347e61d31fba2794e5b3899fb08-------a5fd3c6fb047c347e61d31fba2794e5b3899fb08------
+21:42:10 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1435585331</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.douban.com]]></EventKey>
+</xml>
+21:42:10 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1435585330]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>

@@ -1,0 +1,65 @@
+15:27:27 GET参数为：
+array (
+  'signature' => '40bb2997d0784ab9e117515fcd73283c484ebd69',
+  'timestamp' => '1434612447',
+  'nonce' => '64443366',
+)
+15:27:27 checkSignature success : 40bb2997d0784ab9e117515fcd73283c484ebd69-------40bb2997d0784ab9e117515fcd73283c484ebd69------
+15:27:27 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434612447</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 文]]></Content>
+<MsgId>6161613542507129656</MsgId>
+</xml>
+15:27:27 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[你好啊 
+你发的是 文]]></Content><CreateTime><![CDATA[1434612447]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+15:27:46 GET参数为：
+array (
+  'signature' => 'e665bba53caac3f2733d507ecd458e832e36ca80',
+  'timestamp' => '1434612466',
+  'nonce' => '1687206451',
+)
+15:27:46 checkSignature success : e665bba53caac3f2733d507ecd458e832e36ca80-------e665bba53caac3f2733d507ecd458e832e36ca80------
+15:27:46 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434612466</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[文章]]></Content>
+<MsgId>6161613624111508304</MsgId>
+</xml>
+15:27:46 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1434612466]]></CreateTime><ArticleCount><![CDATA[3]]></ArticleCount><Articles><item id="0"><Title><![CDATA[程序员技术练级攻略]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://365jia.cn/uploads/13/0301/5130c2ff93618.jpg]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/4990.html]]></Url></item><item id="1"><Title><![CDATA[Docker基础技术：Linux CGroup]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/17049.html]]></Url></item><item id="2"><Title><![CDATA[my news]]></Title><Description><![CDATA[my news description]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzAxMTQwODQyNg==&mid=207583625&idx=1&sn=f27e639e12f390c5dd9660bd73fcc102#rd]]></Url></item></Articles><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+15:48:03 GET参数为：
+array (
+  'signature' => 'bb2d5419e358ffdfe7096d533312d074600c2454',
+  'timestamp' => '1434613683',
+  'nonce' => '725307844',
+)
+15:48:03 checkSignature success : bb2d5419e358ffdfe7096d533312d074600c2454-------bb2d5419e358ffdfe7096d533312d074600c2454------
+15:48:03 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434613683</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+</xml>
+15:48:03 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434613683]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+15:49:05 GET参数为：
+array (
+  'signature' => '86c1e7a4fa0dabfae25b6746e420a1799ea76648',
+  'timestamp' => '1434613745',
+  'nonce' => '1474842913',
+)
+15:49:05 checkSignature success : 86c1e7a4fa0dabfae25b6746e420a1799ea76648-------86c1e7a4fa0dabfae25b6746e420a1799ea76648------
+15:49:05 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434613745</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+</xml>
+15:49:05 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434613745]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+15:57:21 [menuHandler],40001 - no access
+15:57:29 [menuHandler],1
+15:58:38 [menuHandler],40001 - no access
+15:58:42 [menuHandler],1

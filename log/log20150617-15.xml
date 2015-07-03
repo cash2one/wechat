@@ -1,0 +1,16 @@
+15:58:53 GET参数为：
+array (
+  'signature' => '7913e6185c929c11bb88ec4647ead3e9afe97bf3',
+  'timestamp' => '1434527933',
+  'nonce' => '388175270',
+)
+15:58:53 checkSignature success : 7913e6185c929c11bb88ec4647ead3e9afe97bf3-------7913e6185c929c11bb88ec4647ead3e9afe97bf3------
+15:58:53 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434527933</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[JJ了]]></Content>
+<MsgId>6161250557641025034</MsgId>
+</xml>
+15:58:53 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[你好啊 
+你发的是JJ了]]></Content><CreateTime><![CDATA[1434527933]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>

@@ -1,0 +1,59 @@
+10:06:32 [uploadArticles],40001 - no access
+10:07:06 [uploadArticles],40001 - no access
+10:07:36 GET参数为：
+array (
+  'signature' => 'd26a9f976ede67a416ac4489289316a16896121e',
+  'timestamp' => '1434593257',
+  'nonce' => '1065672851',
+)
+10:07:36 checkSignature success : d26a9f976ede67a416ac4489289316a16896121e-------d26a9f976ede67a416ac4489289316a16896121e------
+10:07:36 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434593257</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ty]]></Content>
+<MsgId>6161531122084706532</MsgId>
+</xml>
+10:07:36 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[你好啊 
+你发的是ty]]></Content><CreateTime><![CDATA[1434593256]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+10:09:39 [uploadArticles],40001 - no access
+10:10:29 [uploadArticles],40001 - no access
+10:10:45 [获取素材],Array
+10:12:29 [uploadArticles],40001 - no access
+10:12:47 [uploadArticles],Array
+10:15:25 [getMediaList],40001 - no access
+10:15:47 [getMediaList],40001 - no access
+10:16:16 [getMediaList],40001 - no access
+10:16:21 [获取素材],Array
+10:24:10 GET参数为：
+array (
+  'signature' => '9d7d064305c769d60a93c0ca3db6bc14a84cb4e1',
+  'timestamp' => '1434594250',
+  'nonce' => '1568408747',
+)
+10:24:10 checkSignature success : 9d7d064305c769d60a93c0ca3db6bc14a84cb4e1-------9d7d064305c769d60a93c0ca3db6bc14a84cb4e1------
+10:24:10 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434594250</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[文]]></Content>
+<MsgId>6161535386987232003</MsgId>
+</xml>
+10:24:10 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1434594250]]></CreateTime><ArticleCount><![CDATA[2]]></ArticleCount><Articles><item id="0"><Title><![CDATA[程序员技术练级攻略]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://365jia.cn/uploads/13/0301/5130c2ff93618.jpg]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/4990.html]]></Url></item><item id="1"><Title><![CDATA[Docker基础技术：Linux CGroup]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/17049.html]]></Url></item></Articles><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+10:39:53 GET参数为：
+array (
+  'signature' => '0cb9fbdb2847944fd84cba1de14e06064827119d',
+  'timestamp' => '1434595194',
+  'nonce' => '408020595',
+)
+10:39:53 checkSignature success : 0cb9fbdb2847944fd84cba1de14e06064827119d-------0cb9fbdb2847944fd84cba1de14e06064827119d------
+10:39:53 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434595193</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[文]]></Content>
+<MsgId>6161539437141392779</MsgId>
+</xml>
+10:39:53 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1434595193]]></CreateTime><ArticleCount><![CDATA[3]]></ArticleCount><Articles><item id="0"><Title><![CDATA[程序员技术练级攻略]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://365jia.cn/uploads/13/0301/5130c2ff93618.jpg]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/4990.html]]></Url></item><item id="1"><Title><![CDATA[Docker基础技术：Linux CGroup]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/17049.html]]></Url></item><item id="2"><Title><![CDATA[my news]]></Title><Description><![CDATA[my news description]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzAxMTQwODQyNg==&mid=207583625&idx=1&sn=f27e639e12f390c5dd9660bd73fcc102#rd]]></Url></item></Articles><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+10:46:44 [获取素材],Array
+10:47:59 [获取素材],Array

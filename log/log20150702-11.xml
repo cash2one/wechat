@@ -1,0 +1,16 @@
+11:58:16 GET参数为：
+array (
+  'signature' => '6acfe55b5d6681f6cce9459e32d1f206fe5cfe4f',
+  'timestamp' => '1435809496',
+  'nonce' => '556662836',
+)
+11:58:16 checkSignature success : 6acfe55b5d6681f6cce9459e32d1f206fe5cfe4f-------6acfe55b5d6681f6cce9459e32d1f206fe5cfe4f------
+11:58:16 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1435809496</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[quest]]></Content>
+<MsgId>6166754828814476741</MsgId>
+</xml>
+11:58:16 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1435809496]]></CreateTime><ArticleCount><![CDATA[1]]></ArticleCount><Articles><item id="0"><Title><![CDATA[my news]]></Title><Description><![CDATA[my news description]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzAxMTQwODQyNg==&mid=207583625&idx=1&sn=f27e639e12f390c5dd9660bd73fcc102#rd]]></Url></item></Articles><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+11:58:16 关键字回复成功 keyword=quest

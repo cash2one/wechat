@@ -1,0 +1,100 @@
+18:09:43 GET参数为：
+array (
+  'signature' => 'a49253a962f584d4a8e1aed160f85c3810e4ca97',
+  'timestamp' => '1434622183',
+  'nonce' => '930657627',
+)
+18:09:43 checkSignature success : a49253a962f584d4a8e1aed160f85c3810e4ca97-------a49253a962f584d4a8e1aed160f85c3810e4ca97------
+18:09:43 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434622183</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[图]]></Content>
+<MsgId>6161655358308730157</MsgId>
+</xml>
+18:09:43 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[你好啊 
+你发的是图]]></Content><CreateTime><![CDATA[1434622183]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+18:09:47 GET参数为：
+array (
+  'signature' => 'f0a30134dd2bcae257c3066ff68a2e0dc0929b54',
+  'timestamp' => '1434622187',
+  'nonce' => '177267239',
+)
+18:09:47 checkSignature success : f0a30134dd2bcae257c3066ff68a2e0dc0929b54-------f0a30134dd2bcae257c3066ff68a2e0dc0929b54------
+18:09:47 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434622187</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[文]]></Content>
+<MsgId>6161655375488599348</MsgId>
+</xml>
+18:09:47 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1434622187]]></CreateTime><ArticleCount><![CDATA[3]]></ArticleCount><Articles><item id="0"><Title><![CDATA[程序员技术练级攻略]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://365jia.cn/uploads/13/0301/5130c2ff93618.jpg]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/4990.html]]></Url></item><item id="1"><Title><![CDATA[Docker基础技术：Linux CGroup]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/17049.html]]></Url></item><item id="2"><Title><![CDATA[my news]]></Title><Description><![CDATA[my news description]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzAxMTQwODQyNg==&mid=207583625&idx=1&sn=f27e639e12f390c5dd9660bd73fcc102#rd]]></Url></item></Articles><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+18:10:32 GET参数为：
+array (
+  'signature' => 'f9dc1ae470aec3e4b3effab799cd1b62399fa446',
+  'timestamp' => '1434622233',
+  'nonce' => '2076072521',
+)
+18:10:32 checkSignature success : f9dc1ae470aec3e4b3effab799cd1b62399fa446-------f9dc1ae470aec3e4b3effab799cd1b62399fa446------
+18:10:32 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434622232</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://github.com]]></EventKey>
+</xml>
+18:10:32 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434622232]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+18:11:08 GET参数为：
+array (
+  'signature' => '8742af5538f74f1ddc909759040e1badc7324e7d',
+  'timestamp' => '1434622269',
+  'nonce' => '245800276',
+)
+18:11:08 checkSignature success : 8742af5538f74f1ddc909759040e1badc7324e7d-------8742af5538f74f1ddc909759040e1badc7324e7d------
+18:11:08 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434622269</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[赵云]]></Content>
+<MsgId>6161655727675917668</MsgId>
+</xml>
+18:11:08 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[你好啊 
+你发的是赵云]]></Content><CreateTime><![CDATA[1434622268]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+18:16:46 GET参数为：
+array (
+)
+18:16:46 checkSignature failed : 0d6ca7ee4b2eacb1c9b0d67baedb128f178dc1cd-------------
+18:24:35 GET参数为：
+array (
+)
+18:24:35 checkSignature failed : 0d6ca7ee4b2eacb1c9b0d67baedb128f178dc1cd-------------
+18:30:57 GET参数为：
+array (
+  'signature' => '32f02b31ac5c238ac98e9fde041a025567d5d347',
+  'timestamp' => '1434623457',
+  'nonce' => '1823768577',
+)
+18:30:57 checkSignature success : 32f02b31ac5c238ac98e9fde041a025567d5d347-------32f02b31ac5c238ac98e9fde041a025567d5d347------
+18:30:57 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434623457</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[把]]></Content>
+<MsgId>6161660830097066147</MsgId>
+</xml>
+18:30:57 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[你好 
+暂时无法为您提供服务，请稍后再试]]></Content><CreateTime><![CDATA[1434623457]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+18:31:42 GET参数为：
+array (
+  'signature' => '028e0c3ebc7500263feb252c32b7b36e55512a48',
+  'echostr' => '5761888874736295727',
+  'timestamp' => '1434623503',
+  'nonce' => '2135087486',
+)
+18:31:42 checkSignature success : 028e0c3ebc7500263feb252c32b7b36e55512a48-------028e0c3ebc7500263feb252c32b7b36e55512a48------
+18:31:42 die with echoStr :[5761888874736295727]
+18:41:44 [获取素材],40001 - no access
+18:41:52 [获取素材],Array
+18:42:48 [获取素材],40001 - no access
+18:43:11 [获取素材],Array
+18:55:23 [获取素材],Array

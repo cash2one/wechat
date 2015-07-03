@@ -1,0 +1,30 @@
+11:15:04 GET参数为：
+array (
+  'signature' => 'c04e7dcfc3648dc226175e6cd8371733d01cd7ea',
+  'echostr' => '5620129395052623867',
+  'timestamp' => '1434597304',
+  'nonce' => '1664495297',
+)
+11:15:04 checkSignature success : c04e7dcfc3648dc226175e6cd8371733d01cd7ea-------c04e7dcfc3648dc226175e6cd8371733d01cd7ea------
+11:15:04 die with echoStr :[5620129395052623867]
+11:16:01 GET参数为：
+array (
+  'signature' => 'cd0e6544b84f120f938a0addb6cd23104d33ad0e',
+  'timestamp' => '1434597362',
+  'nonce' => '969667327',
+)
+11:16:01 checkSignature success : cd0e6544b84f120f938a0addb6cd23104d33ad0e-------cd0e6544b84f120f938a0addb6cd23104d33ad0e------
+11:16:01 <xml><ToUserName><![CDATA[gh_4ddb7227913e]]></ToUserName>
+<FromUserName><![CDATA[op5ZtuK67Xq8d3qsA64_-XAXZ0cQ]]></FromUserName>
+<CreateTime>1434597362</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+11:16:01 <xml><ToUserName><![CDATA[op5ZtuK67Xq8d3qsA64_-XAXZ0cQ]]></ToUserName><FromUserName><![CDATA[gh_4ddb7227913e]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[欢迎你进入一个new world！<br>1. 输入‘文’或者‘文章’会推送一篇文章<br>2. 发送图片会有提示]]></Content><CreateTime><![CDATA[1434597361]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+11:25:02 [获取素材],40001 - no access
+11:25:34 [获取素材],48001 - api unauthorized
+11:42:00 [menuHandler],40001 - no access
+11:42:29 [menuHandler],40001 - no access
+11:43:01 [menuHandler],40001 - no access
+11:43:05 [menuHandler],Array

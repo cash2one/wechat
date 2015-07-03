@@ -1,0 +1,127 @@
+11:51:02 [menumodify],40001 - no access
+11:51:04 [menumodify], getMenu success: Array
+11:51:31 [menumodify_handler],40001 - no access
+11:52:02 [menumodify_handler],40001 - no access
+11:52:52 [menumodify_handler],40001 - no access
+11:53:12 [menumodify_handler], deleteMenu success
+11:53:12 [menumodify_handler], createMenu success
+11:53:57 GET参数为：
+array (
+  'signature' => 'c54dd1b97fe3f22cbaaa064a39baa588aca4747a',
+  'timestamp' => '1434858837',
+  'nonce' => '1776966026',
+)
+11:53:57 checkSignature success : c54dd1b97fe3f22cbaaa064a39baa588aca4747a-------c54dd1b97fe3f22cbaaa064a39baa588aca4747a------
+11:53:57 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434858837</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+</xml>
+11:53:57 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434858837]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+11:54:05 GET参数为：
+array (
+  'signature' => 'f6f6ac197c31976c92de3e0965f09ed2df6e2098',
+  'timestamp' => '1434858845',
+  'nonce' => '813375425',
+)
+11:54:05 checkSignature success : f6f6ac197c31976c92de3e0965f09ed2df6e2098-------f6f6ac197c31976c92de3e0965f09ed2df6e2098------
+11:54:05 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434858845</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+</xml>
+11:54:05 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434858845]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+11:54:09 GET参数为：
+array (
+  'signature' => '90a86dda5c63ef566cb93c44eb44be4f319bd39e',
+  'timestamp' => '1434858850',
+  'nonce' => '1887854438',
+)
+11:54:09 checkSignature success : 90a86dda5c63ef566cb93c44eb44be4f319bd39e-------90a86dda5c63ef566cb93c44eb44be4f319bd39e------
+11:54:09 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434858849</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+</xml>
+11:54:09 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434858849]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+11:54:16 GET参数为：
+array (
+  'signature' => 'ec917f99df3c54d912e727c86a32a6bee2546c13',
+  'timestamp' => '1434858856',
+  'nonce' => '333628373',
+)
+11:54:16 checkSignature success : ec917f99df3c54d912e727c86a32a6bee2546c13-------ec917f99df3c54d912e727c86a32a6bee2546c13------
+11:54:16 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434858856</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+</xml>
+11:54:16 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434858856]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+11:54:42 GET参数为：
+array (
+  'signature' => '8e002d4f5c83b62bcf6685938aca369fad01f36f',
+  'timestamp' => '1434858882',
+  'nonce' => '593914096',
+)
+11:54:42 checkSignature success : 8e002d4f5c83b62bcf6685938aca369fad01f36f-------8e002d4f5c83b62bcf6685938aca369fad01f36f------
+11:54:42 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434858882</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+</xml>
+11:54:42 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434858882]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+11:54:48 GET参数为：
+array (
+  'signature' => '6d22e18b2074a2cb0b5bd936af5d0bd3f9aacb77',
+  'timestamp' => '1434858888',
+  'nonce' => '1345526183',
+)
+11:54:48 checkSignature success : 6d22e18b2074a2cb0b5bd936af5d0bd3f9aacb77-------6d22e18b2074a2cb0b5bd936af5d0bd3f9aacb77------
+11:54:48 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434858888</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+11:54:48 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434858888]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+11:55:00 GET参数为：
+array (
+  'signature' => 'b5d0e69a81cbe0f66637c665903a5db8896c2393',
+  'timestamp' => '1434858900',
+  'nonce' => '1134239080',
+)
+11:55:00 checkSignature success : b5d0e69a81cbe0f66637c665903a5db8896c2393-------b5d0e69a81cbe0f66637c665903a5db8896c2393------
+11:55:00 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434858900</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+11:55:00 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[欢迎你进入一个new world！<br>1. 输入‘文’或者‘文章’会推送一篇文章<br>2. 发送图片会有提示]]></Content><CreateTime><![CDATA[1434858900]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+11:55:03 GET参数为：
+array (
+  'signature' => '17dcac72db468d72383bd746baffe273d5e42cb8',
+  'timestamp' => '1434858903',
+  'nonce' => '1144707137',
+)
+11:55:03 checkSignature success : 17dcac72db468d72383bd746baffe273d5e42cb8-------17dcac72db468d72383bd746baffe273d5e42cb8------
+11:55:03 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434858903</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.douban.com]]></EventKey>
+</xml>
+11:55:03 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434858903]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>

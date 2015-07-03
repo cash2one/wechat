@@ -1,0 +1,129 @@
+12:18:34 [menuModify],Array
+12:18:53 [menuModify],40001 - no access
+12:19:43 [menuModify],40001 - no access
+12:20:31 [menuModify],40001 - no access
+12:20:47 [menuModify],Array
+12:28:32 [menuHandler],1
+12:28:52 [menuHandler],40001 - no access
+12:29:30 [menuHandler],1
+12:30:39 [menuHandler],40001 - no access
+12:33:30 [menuHandler],40001 - no access
+12:35:00 [menuHandler],1
+12:37:02 GET参数为：
+array (
+  'signature' => '689f2402ab7942fe4a5fd0575e06df78b746db46',
+  'timestamp' => '1434775022',
+  'nonce' => '308237948',
+)
+12:37:02 checkSignature success : 689f2402ab7942fe4a5fd0575e06df78b746db46-------689f2402ab7942fe4a5fd0575e06df78b746db46------
+12:37:02 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434775022</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+12:37:02 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434775022]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+12:37:37 GET参数为：
+array (
+  'signature' => '5d0e8767f035315c87d431affd9ca40aa9d1e049',
+  'timestamp' => '1434775057',
+  'nonce' => '2108842588',
+)
+12:37:37 checkSignature success : 5d0e8767f035315c87d431affd9ca40aa9d1e049-------5d0e8767f035315c87d431affd9ca40aa9d1e049------
+12:37:37 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434775057</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+12:37:37 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[欢迎你进入一个new world！<br>1. 输入‘文’或者‘文章’会推送一篇文章<br>2. 发送图片会有提示]]></Content><CreateTime><![CDATA[1434775057]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+12:37:41 GET参数为：
+array (
+  'signature' => '0d4446e35a3736bfa2e25966499a83403035e7c9',
+  'timestamp' => '1434775061',
+  'nonce' => '291897012',
+)
+12:37:41 checkSignature success : 0d4446e35a3736bfa2e25966499a83403035e7c9-------0d4446e35a3736bfa2e25966499a83403035e7c9------
+12:37:41 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434775061</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ld.ztgame.com/html/news/2015-04-22/001-1429-00034-696339.shtml]]></EventKey>
+</xml>
+12:37:41 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434775061]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+12:37:56 GET参数为：
+array (
+  'signature' => '7ad522c4e50a5d5b5c23ba31910afb9ddbd5daa1',
+  'timestamp' => '1434775076',
+  'nonce' => '151637045',
+)
+12:37:56 checkSignature success : 7ad522c4e50a5d5b5c23ba31910afb9ddbd5daa1-------7ad522c4e50a5d5b5c23ba31910afb9ddbd5daa1------
+12:37:56 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434775076</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ld.ztgame.com/index.shtml]]></EventKey>
+</xml>
+12:37:56 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434775076]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+12:38:10 GET参数为：
+array (
+  'signature' => '78f5961cacfafe890e2ee2c2200e763d8569bea8',
+  'timestamp' => '1434775090',
+  'nonce' => '1849603187',
+)
+12:38:10 checkSignature success : 78f5961cacfafe890e2ee2c2200e763d8569bea8-------78f5961cacfafe890e2ee2c2200e763d8569bea8------
+12:38:10 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434775090</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://tieba.baidu.com/f?kw=%C2%D2%EC%C0%D3%A2%D0%DB]]></EventKey>
+</xml>
+12:38:10 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434775090]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+12:38:23 GET参数为：
+array (
+  'signature' => '5b2409fd8b85cee25961f4018e51bb253171f9a6',
+  'timestamp' => '1434775103',
+  'nonce' => '1290195736',
+)
+12:38:23 checkSignature success : 5b2409fd8b85cee25961f4018e51bb253171f9a6-------5b2409fd8b85cee25961f4018e51bb253171f9a6------
+12:38:23 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434775103</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ld.ztgame.com/html/news/2015-04-22/001-1429-00034-696339.shtml]]></EventKey>
+</xml>
+12:38:23 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434775103]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+12:38:32 GET参数为：
+array (
+  'signature' => '4e0036d30d2e2493947bc68b1bc94c8d094f64fb',
+  'timestamp' => '1434775112',
+  'nonce' => '1450412891',
+)
+12:38:32 checkSignature success : 4e0036d30d2e2493947bc68b1bc94c8d094f64fb-------4e0036d30d2e2493947bc68b1bc94c8d094f64fb------
+12:38:32 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434775112</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ld.ztgame.com/game/008-1398-00005-329937.shtml]]></EventKey>
+</xml>
+12:38:32 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[这里是默认事件处理]]></Content><CreateTime><![CDATA[1434775112]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+12:38:46 [menuModify],Array
+12:47:50 [menuModify],Array
+12:47:54 [menuModify],Array
+12:47:55 [menuModify],Array
+12:47:56 [menuModify],Array
+12:48:41 [menuModify],40001 - no access
+12:49:11 [menuModify],40001 - no access
+12:50:23 [menuModify],40001 - no access
+12:50:58 [menuModify],40001 - no access
+12:51:03 [menuModify],Array
+12:52:54 [menuModify],Array
+12:53:18 [menuModify],Array
+12:54:45 [menuModify],Array

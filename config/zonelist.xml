@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zones>
+    <zone id="1001" name="区1"/>
+    <zone id="1002" name="区2"/>
+    <zone id="1003" name="区3"/>
+    <zone id="1004" name="区4"/>
+</zones>

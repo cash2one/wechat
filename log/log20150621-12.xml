@@ -1,0 +1,19 @@
+12:27:04 GET参数为：
+array (
+)
+12:27:04 checkSignature failed : 0d6ca7ee4b2eacb1c9b0d67baedb128f178dc1cd-------------
+12:27:12 GET参数为：
+array (
+  'signature' => '80c0cf6150db71936210fa3ea77ab41d4f59e3ba',
+  'timestamp' => '1434860832',
+  'nonce' => '144119052',
+)
+12:27:12 checkSignature success : 80c0cf6150db71936210fa3ea77ab41d4f59e3ba-------80c0cf6150db71936210fa3ea77ab41d4f59e3ba------
+12:27:12 <xml><ToUserName><![CDATA[gh_029f25d3d032]]></ToUserName>
+<FromUserName><![CDATA[oHfucswd1RubcDUsBTMDRTXjhJC0]]></FromUserName>
+<CreateTime>1434860832</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[文]]></Content>
+<MsgId>6162680347958539675</MsgId>
+</xml>
+12:27:12 <xml><ToUserName><![CDATA[oHfucswd1RubcDUsBTMDRTXjhJC0]]></ToUserName><FromUserName><![CDATA[gh_029f25d3d032]]></FromUserName><MsgType><![CDATA[news]]></MsgType><CreateTime><![CDATA[1434860832]]></CreateTime><ArticleCount><![CDATA[3]]></ArticleCount><Articles><item id="0"><Title><![CDATA[程序员技术练级攻略]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://365jia.cn/uploads/13/0301/5130c2ff93618.jpg]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/4990.html]]></Url></item><item id="1"><Title><![CDATA[Docker基础技术：Linux CGroup]]></Title><Description><![CDATA[summary text]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://coolshell.cn/articles/17049.html]]></Url></item><item id="2"><Title><![CDATA[my news]]></Title><Description><![CDATA[my news description]]></Description><PicUrl><![CDATA[http://coolshell.cn//wp-content/uploads/2014/06/software_development.png]]></PicUrl><Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzAxMTQwODQyNg==&mid=207583625&idx=1&sn=f27e639e12f390c5dd9660bd73fcc102#rd]]></Url></item></Articles><FuncFlag><![CDATA[0]]></FuncFlag></xml>

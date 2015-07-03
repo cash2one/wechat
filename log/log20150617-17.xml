@@ -1,0 +1,23 @@
+17:09:45 [uploadArticles],40001 - no access
+17:10:07 GET参数为：
+array (
+  'signature' => 'f64c1b166cfd72825f3e19a5e375c3dc9b9a1b96',
+  'timestamp' => '1434532207',
+  'nonce' => '1504396562',
+)
+17:10:07 checkSignature success : f64c1b166cfd72825f3e19a5e375c3dc9b9a1b96-------f64c1b166cfd72825f3e19a5e375c3dc9b9a1b96------
+17:10:07 <xml><ToUserName><![CDATA[gh_0eede9f6507d]]></ToUserName>
+<FromUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></FromUserName>
+<CreateTime>1434532207</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[把]]></Content>
+<MsgId>6161268914331250649</MsgId>
+</xml>
+17:10:07 <xml><ToUserName><![CDATA[oKnJ-s2OHWmaiKXYn6Ap4aUoBtBc]]></ToUserName><FromUserName><![CDATA[gh_0eede9f6507d]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[你好啊 
+你发的是把]]></Content><CreateTime><![CDATA[1434532207]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+17:11:12 [uploadArticles],40001 - no access
+17:12:13 [uploadArticles],40001 - no access
+17:13:44 [uploadArticles],40001 - no access
+17:17:46 [uploadArticles],40001 - no access
+17:31:42 [获取素材],Array
+17:39:53 [uploadArticles],40001 - no access

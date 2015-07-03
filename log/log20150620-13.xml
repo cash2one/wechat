@@ -1,0 +1,35 @@
+13:07:35 [menuModify],Array
+13:08:21 [menuModify],40001 - no access
+13:08:27 [menuModify],Array
+13:10:05 [menuModify],Array
+13:12:01 [menuModify],40001 - no access
+13:12:33 [menuModify],40001 - no access
+13:13:08 [menuModify],Array
+13:16:54 [menuModify],40001 - no access
+13:17:44 [menuModify],Array
+13:19:30 [menuModify],Array
+13:21:19 [menuModify],40001 - no access
+13:21:29 [menuModify],Array
+13:21:54 [menuModify],40001 - no access
+13:22:28 [menuModify],40001 - no access
+13:22:53 [menuModify],40001 - no access
+13:23:16 [menuModify],40001 - no access
+13:23:37 [menuModify],40001 - no access
+13:23:51 [menuModify],40001 - no access
+13:24:34 [menuModify],40001 - no access
+13:24:45 [menuModify],Array
+13:26:34 [menuModify],40001 - no access
+13:26:40 [menuModify],Array
+13:27:12 [menumodify_handler],40001 - no access
+13:27:30 create menu error:errCode:40016errMsg:invalid button size
+13:27:30 [menumodify_handler],40016 - invalid button size
+13:28:16 [menuModify],40001 - no access
+13:28:42 [menuModify],40001 - no access
+13:29:27 [menuModify],40001 - no access
+13:29:43 [menuModify],40001 - no access
+13:30:26 [menuModify],40001 - no access
+13:31:41 [menuModify],46003 - menu no exist
+13:32:41 [menuModify],40001 - no access
+13:33:24 [menuHandler],40001 - no access
+13:35:23 [menuHandler],40001 - no access
+13:35:49 [menuHandler],1
